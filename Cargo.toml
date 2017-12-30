@@ -1,0 +1,8 @@
+[package]
+name = "contree"
+version = "0.1.0"
+authors = ["Vincent Prouillet <vincent@wearewizards.io>"]
+
+[dependencies]
+rand = "0.4"
+failure = "0.1"
